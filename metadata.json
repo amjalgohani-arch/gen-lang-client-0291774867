@@ -1,0 +1,6 @@
+{
+  "name": "منصة نِبراس التعليمية | Nebras Learning",
+  "description": "منصة تعليمية تفاعلية متكاملة باللغة العربية تضم مسارات تعليمية، محاكاة علمية تفاعلية، بطاقات استذكار، بنك اختبارات ذكي وشهادات إنجاز.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
